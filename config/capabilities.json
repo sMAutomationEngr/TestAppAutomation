@@ -3,7 +3,7 @@
     "platformName": "Android",
     "automationName": "UIAutomator2",
     "deviceName": "Android Emulator",
-    "app": "app/app-stage-debug.apk",
+    "app": "app/app-staging-debug.apk",
     "fullReset": false,
     "noReset": false,
     "autoGrantPermissions": true
