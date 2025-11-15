@@ -1,0 +1,20 @@
+{
+  "android": {
+    "platformName": "Android",
+    "automationName": "UIAutomator2",
+    "deviceName": "Android Emulator",
+    "app": "app/app-stage-debug.apk",
+    "fullReset": false,
+    "noReset": false,
+    "autoGrantPermissions": true
+  },
+  "ios": {
+    "platformName": "iOS",
+    "automationName": "XCUITest",
+    "deviceName": "iPhone Simulator",
+    "app": "app/app-stage-debug.ipa",
+    "fullReset": false,
+    "noReset": false,
+    "autoAcceptAlerts": true
+  }
+}
